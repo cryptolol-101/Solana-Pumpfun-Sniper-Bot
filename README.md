@@ -1,5 +1,6 @@
 ### Solana pumpfun sniper bot that listen new pools on pump.fun, automic buy - sell on pump fun. As pumpfun sniper bot on pump.fun, it's basic version about sniping on pump fun. To get full advanced version, feel free to reach out of me[Telegram: https://t.me/@intotheunknown007, Whatsapp: https://wa.me/15175141010].
 
+
 ## Features
 - **Automated Trading:** Automatically buy the latest coins on Pump.Fun and sell them once your target profit percentage or stop-loss percentage is reached.
 - **King of The Hill Coins:** Support for buying the top-performing coins.
